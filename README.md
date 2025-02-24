@@ -7,7 +7,7 @@ Prog Languages I can code
 
 - OK:
 
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" width="50" height="50"> <img src="https://en.wikipedia.org/wiki/MATLAB#/media/File:Matlab_Logo.png" width="50" height="50">
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height="50">
 
 - Barely:
 
