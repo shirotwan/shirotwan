@@ -19,4 +19,4 @@ Prog Languages I can code
 
 Current Op Systems I use
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Elementary_logo.svg/2048px-Elementary_logo.svg.png" width="50" height="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/elementary/brand/master/logomark.svg" width="50" height="50"> 
