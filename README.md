@@ -14,4 +14,4 @@ Prog Languages I can code
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="50" height="50"> <img src="https://hackr.io/tutorials/learn-assembly-language/logo/logo-assembly-language?ver=1603208610" width="50" height="50">
 
 - Almost never:
-<img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" width="50" height="50">
+<img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Dart_programming_language_logo_icon.svg" width="50" height="50">
